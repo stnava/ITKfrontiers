@@ -22,3 +22,4 @@ c.     A list of potential contributors (name and email). This list will be chan
 d.    Your preferred deadlines for abstract and manuscript submissions. We generally suggest manuscript submission deadlines as 6 months from the time of proposal submission.
 
 
+The file "abstract.pdf" can be compiled from latex by typing   > ./bin/compile abstract   from the ITKfrontiers directory.
