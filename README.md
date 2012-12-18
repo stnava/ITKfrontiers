@@ -5,7 +5,9 @@ An interactive forum to help develop an ITK frontiers paper.
 
 editor/co-editors should send their CV to : researchtopics@frontiersin.org
 
-a.     The finalized title of your Topic, e.g.:  Neuroinformatics with the Insight ToolKit
+a.     The finalized title of your Topic, e.g.:  
+       
+       Neuroinformatics with the Insight ToolKit
 
 b.    A short description (max. 500 words) which will be displayed on the homepage of your Research Topic -- you can find some examples from our current topics here http://www.frontiersin.org/Neuroinformatics/researchtopics
 
