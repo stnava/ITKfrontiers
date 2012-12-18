@@ -9,7 +9,7 @@ a.     The finalized title of your Topic, e.g.:
        
        Neuroinformatics with the Insight ToolKit
 
-b.    A short description (max. 500 words) which will be displayed on the homepage of your Research Topic -- you can find some examples from our current topics here http://www.frontiersin.org/Neuroinformatics/researchtopics
+b.    A short description (max. 500 words) which will be displayed on the homepage of your Research Topic -- you can find some examples from our current topics here http://www.frontiersin.org/Neuroinformatics/researchtopics ---- see abstract.pdf
 
 c.     A list of potential contributors (name and email). This list will be changing all the time, but the bigger it is the better!
 
